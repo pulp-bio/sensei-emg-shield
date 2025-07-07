@@ -1,0 +1,160 @@
+Board Information Report
+Filename     : C:\Users\laksh\Desktop\BA\pcb\ExG_shield_fullydiff_pcb\EMG_shield_fullydiff.PcbDoc
+Date         : 19/01/2025
+Time         : 16:14:43
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 19.5322mmx19.5375mm
+    Components on board, 2
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 40
+    Connections routed, 40
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 90, 0, 289, 0, 0, 7, 0
+    SIG1, 0, 0, 0, 174, 0, 0, 9, 0
+    SIG2, 0, 0, 0, 93, 0, 0, 7, 0
+    Bottom Layer, 0, 0, 0, 60, 0, 0, 7, 0
+    Mechanical 1, 0, 0, 0, 0, 1, 0, 0, 2
+    Top 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 2, 0, 0, 8, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 8, 0, 0, 2, 0
+    Top Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 12, 4, 0, 0, 0
+    Board Layer Stack Bottom Overlay, 3, 0, 0, 0, 2, 0, 7, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Board Layer Stack Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 0, 60, 0, 0, 0, 1, 0
+count : 25
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 60
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 0.453, 292.274, 77%
+    SIG1, 0.454, 292.964, 77%
+    SIG2, 0.495, 319.507, 84%
+    Bottom Layer, 0.508, 327.491, 86%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 90, 0
+    0.2mm, 0, 60
+count : 2
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.15mm, 60
+count : 1
+
+Mid Layer Annular Ring Size, Count
+    0.15mm, 60
+count : 1
+
+Bottom Layer Annular Ring Size, Count
+    0.15mm, 60
+count : 1
+
+Pad Solder Mask, Count
+    0mm, 90
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 90
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.1016mm, 90
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.1016mm, 90
+count : 1
+
+Pad Relief Air Gap, Count
+    0.1016mm, 90
+count : 1
+
+Pad Relief Entries, Count
+    4, 90
+count : 1
+
+Via Solder Mask, Count
+    0.075mm, 60
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.1016mm, 60
+count : 1
+
+Track Width, Count
+    0.0254mm, 8
+    0.1524mm, 20
+    0.2mm, 605
+    0.5mm, 11
+count : 4
+
+Arc Line Width, Count
+    0.1472mm, 2
+    0.1636mm, 1
+    0.508mm, 2
+count : 3
+
+Arc Radius, Count
+    0.0008mm, 3
+    0.381mm, 2
+count : 2
+
+Arc Degrees, Count
+    360, 5
+count : 1
+
+Text Height, Count
+    1.2mm, 2
+    1.524mm, 5
+count : 2
+
+Text Width, Count
+    0.15mm, 1
+    0.254mm, 6
+count : 2
+
+Net Track Width, Count
+    0.1016mm, 37
+count : 1
+
+Net Via Size, Count
+    0.35mm, 37
+count : 1
