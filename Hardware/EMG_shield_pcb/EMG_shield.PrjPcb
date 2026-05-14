@@ -386,214 +386,374 @@ DocumentPath=Project Outputs for ExG_shield\Design Rule Check - ExG_shield.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.DRR
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.EXTREP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.LDP
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.REP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX1
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX2
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.G1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX3
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TXT
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.G2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.DRR
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.G3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.EXTREP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.G3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G1
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.G4
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G1
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.G4
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G2
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G2
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G3
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G3
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G4
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G4
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBL
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBL
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBO
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBO
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBP
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GM
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GM
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBS
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBS
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GKO
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GKO
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GM
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GM
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GPB
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GPB
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GPT
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GPT
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTL
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTL
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTO
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTO
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTP
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.REP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.REP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTS
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTS
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.LDP
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.REP
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX1
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX2
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX3
+DocumentPath=Project Outputs for EMG_shield\EMG_shield.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX4
+DocumentPath=Project Outputs for EMG_shield\production_files\EMG_shield.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TXT
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for ExG_shield\Net Status - ExG_shield.html
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for EMG_shield\production_files\Pick Place for EMG_shield(Bipolar_supply).txt
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G1
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\Pick Place for ExG_shield(Bipolar_supply).txt
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G1
 DItemRevisionGUID=
 
 [GeneratedDocument58]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G2
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G2
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G3
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G3
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.G4
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.G4
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GM
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GM
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for EMG_shield\production_files\ExG_shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\ExG_shield.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for ExG_shield\Net Status - ExG_shield.html
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for EMG_shield\production_files\Pick Place for EMG_shield(Bipolar_supply).txt
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\Pick Place for ExG_shield(Bipolar_supply).txt
+DItemRevisionGUID=
+
+[GeneratedDocument98]
 DocumentPath=Project Outputs for ExG_shield\production_files_unipolar\Pick Place for ExG_shield(Unipolar_supply).txt
 DItemRevisionGUID=
 
@@ -860,22 +1020,22 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Final
@@ -884,48 +1044,56 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\s-fre\Github\biogap_public\submodules\sensei-emg-shield\Hardware\EMG_shield_pcb\EMG_shield.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=DFREENNC|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777220~1,16777218~1,16777219~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=EMG_shield.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=EMG_shield.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair1_Backdrill=False|UncheckPlotDrillDrawingLayerPair1_Checked=False|UncheckPlotDrillDrawingLayerPair1_DrillType=Regular|UncheckPlotDrillDrawingLayerPair1_FileName=EMG_shield.GD2|UncheckPlotDrillDrawingLayerPair1_HighLayer=Mid Layer 3|UncheckPlotDrillDrawingLayerPair1_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair2_Backdrill=False|UncheckPlotDrillDrawingLayerPair2_Checked=False|UncheckPlotDrillDrawingLayerPair2_DrillType=Regular|UncheckPlotDrillDrawingLayerPair2_FileName=EMG_shield.GD3|UncheckPlotDrillDrawingLayerPair2_HighLayer=Mid Layer 1|UncheckPlotDrillDrawingLayerPair2_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair3_Backdrill=False|UncheckPlotDrillDrawingLayerPair3_Checked=False|UncheckPlotDrillDrawingLayerPair3_DrillType=Regular|UncheckPlotDrillDrawingLayerPair3_FileName=EMG_shield.GD4|UncheckPlotDrillDrawingLayerPair3_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair3_LowLayer=Mid Layer 2|UncheckPlotDrillDrawingLayerPair4_Backdrill=False|UncheckPlotDrillDrawingLayerPair4_Checked=False|UncheckPlotDrillDrawingLayerPair4_DrillType=Regular|UncheckPlotDrillDrawingLayerPair4_FileName=EMG_shield.GD5|UncheckPlotDrillDrawingLayerPair4_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair4_LowLayer=Mid Layer 4|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=EMG_shield.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair1_Backdrill=False|UncheckPlotDrillGuideLayerPair1_Checked=False|UncheckPlotDrillGuideLayerPair1_DrillType=Regular|UncheckPlotDrillGuideLayerPair1_FileName=EMG_shield.GG2|UncheckPlotDrillGuideLayerPair1_HighLayer=Mid Layer 3|UncheckPlotDrillGuideLayerPair1_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair2_Backdrill=False|UncheckPlotDrillGuideLayerPair2_Checked=False|UncheckPlotDrillGuideLayerPair2_DrillType=Regular|UncheckPlotDrillGuideLayerPair2_FileName=EMG_shield.GG3|UncheckPlotDrillGuideLayerPair2_HighLayer=Mid Layer 1|UncheckPlotDrillGuideLayerPair2_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair3_Backdrill=False|UncheckPlotDrillGuideLayerPair3_Checked=False|UncheckPlotDrillGuideLayerPair3_DrillType=Regular|UncheckPlotDrillGuideLayerPair3_FileName=EMG_shield.GG4|UncheckPlotDrillGuideLayerPair3_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair3_LowLayer=Mid Layer 2|UncheckPlotDrillGuideLayerPair4_Backdrill=False|UncheckPlotDrillGuideLayerPair4_Checked=False|UncheckPlotDrillGuideLayerPair4_DrillType=Regular|UncheckPlotDrillGuideLayerPair4_FileName=EMG_shield.GG5|UncheckPlotDrillGuideLayerPair4_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair4_LowLayer=Mid Layer 4|UserLayerName.Caption0=EMG_shield.GM23|UserLayerName.Caption1=EMG_shield.GTP|UserLayerName.Caption10=EMG_shield.G3|UserLayerName.Caption11=EMG_shield.GBL|UserLayerName.Caption12=EMG_shield.GM5|UserLayerName.Caption13=EMG_shield.GM15|UserLayerName.Caption14=EMG_shield.GTL|UserLayerName.Caption15=EMG_shield.GBO|UserLayerName.Caption16=EMG_shield.GPT|UserLayerName.Caption17=EMG_shield.GM13|UserLayerName.Caption18=EMG_shield.GM21|UserLayerName.Caption19=EMG_shield.G1|UserLayerName.Caption2=EMG_shield.GTO|UserLayerName.Caption20=EMG_shield.GM1|UserLayerName.Caption21=EMG_shield.GM24|UserLayerName.Caption22=EMG_shield.G4|UserLayerName.Caption23=EMG_shield.GM3|UserLayerName.Caption24=EMG_shield.GM20|UserLayerName.Caption25=EMG_shield.GKO|UserLayerName.Caption3=EMG_shield.GTS|UserLayerName.Caption4=EMG_shield.GBP|UserLayerName.Caption5=EMG_shield.GM2|UserLayerName.Caption6=EMG_shield.GPB|UserLayerName.Caption7=EMG_shield.G2|UserLayerName.Caption8=EMG_shield.GBS|UserLayerName.Caption9=EMG_shield.GM16|UserLayerName.Count=26|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973831|UserLayerName.Layer16=16973848|UserLayerName.Layer17=16908301|UserLayerName.Layer18=16908309|UserLayerName.Layer19=16777220|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908289|UserLayerName.Layer21=16908312|UserLayerName.Layer22=16777221|UserLayerName.Layer23=16908291|UserLayerName.Layer24=16908308|UserLayerName.Layer25=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973833|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16777218|UserLayerName.Layer8=16973835|UserLayerName.Layer9=16908304|DocumentPath=C:\Users\s-fre\Github\biogap_public\submodules\sensei-emg-shield\Hardware\EMG_shield_pcb\EMG_shield.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
